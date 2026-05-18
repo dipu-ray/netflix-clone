@@ -117,9 +117,61 @@ header {
     color: var(--white-color);
     border: none;
     border-radius: 5px;
+    transition: var(--transition);
 }
 
+.email-form button:hover {
+    background-color: #e60914c6;
+}
+
+/* Red Line - Divide */
+.divide {
+    background-color: var(--black-color);
+}
+
+.divide .inner-divide {
+    border: 2px solid red;
+    border-radius: 100%;
+}
+
+/* Main */
 main {
     background-color: var(--black-color);
     color: var(--white-color);
+}
+
+/* Trending Section */
+.trending-section {
+    padding: 50px 0;
+}
+
+.trending-cards {
+    margin: 25px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.trending-cards .card {
+    width: 200px;
+    position: relative;
+}
+
+.trending-cards .card .serial {
+    position: absolute;
+    bottom: 10px;
+    left: -15px;
+    font-size: 5.5rem;
+    font-weight: 800;
+    color: var(--white-color);
+    z-index: 1;
+}
+
+.trending-cards .card img {
+    border-radius: 8px;
+    width: 90%;
+    transition: var(--transition);
+}
+
+.trending-cards .card img:hover {
+    transform: scale(1.1);
 }
