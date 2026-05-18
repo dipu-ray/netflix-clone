@@ -25,12 +25,11 @@ body {
 
 /* Header */
 header {
-    height: 100vh;
+    height: 85vh;
     background-image: linear-gradient(to bottom,
             rgba(0, 0, 0, 0.8) 0%,
             rgba(0, 0, 0, 0.6) 30%,
-            rgba(0, 0, 0, 0.9) 100%
-        ), url('assets/images/home-background.png');
+            rgba(0, 0, 0, 0.9) 100%), url('assets/images/home-background.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -74,7 +73,7 @@ header {
 
 .home-section h1 {
     font-size: 3.5rem;
-    font-weight: bolder;
+    font-weight: 900;
     width: 650px;
     margin: 0 auto;
 }
@@ -82,40 +81,4 @@ header {
 .home-section h4 {
     margin: 20px auto 40px;
     font-size: 1.2rem;
-}
-
-.home-section .input-container {
-    margin: 14px auto;
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    align-items: center;
-}
-
-.home-section .input-container input {
-    border: 1px solid var(--light-gray);
-    border-radius: 5px;
-    background-color: #171717c3;
-    color: var(--white-color);
-    padding: 18px;
-    font-size: 1rem;
-    width: 400px;
-}
-
-.home-section .input-container input::placeholder {
-    color: var(--light-gray);
-}
-
-.home-section .input-container a {
-    background-color: var(--primary-color);
-    color: var(--white-color);
-    padding: 15px 30px;
-    font-size: 1.4rem;
-    font-weight: bold;
-    border-radius: 5px;
-    transition: var(--transition);
-}
-
-.home-section .input-container a:hover {
-    background-color: #e60914c6;
 }
