@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone
+<h1 align="center">🎬 Netflix Clone</h1>
 
 **Started:** 18 May 2026
 
