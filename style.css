@@ -206,3 +206,27 @@ main {
     bottom: 20px;
     width: 80px;
 }
+
+/* Questions Section */
+.qs-container {
+    padding-bottom: 50px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.qs-container a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2e2e2e;
+    color: var(--white-color);
+    font-size: 1.5rem;
+    padding: 28px 25px;
+    transition: var(--transition);
+}
+
+.qs-container a:hover {
+    background-color: #414141;
+}
