@@ -209,7 +209,6 @@ main {
 
 /* Questions Section */
 .qs-container {
-    padding-bottom: 50px;
     margin-top: 15px;
     display: flex;
     flex-direction: column;
@@ -229,4 +228,28 @@ main {
 
 .qs-container a:hover {
     background-color: #414141;
+}
+
+/* Membership Section */
+.membership-section {
+    text-align: center;
+    margin-top: 25px;
+    padding-bottom: 20px;
+}
+
+.membership-section input {
+    width: 600px;
+}
+
+/* Footer */
+footer {
+    background-color: var(--black-color);
+    color: var(--light-gray);
+    padding-bottom: 95px;
+}
+
+/* Links Section */
+.links-section .contact-btn {
+    color: var(--light-gray);
+    text-decoration: underline;
 }
