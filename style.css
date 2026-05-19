@@ -25,6 +25,10 @@ body {
     margin: 0 auto;
 }
 
+.pt-5 {
+    padding-top: 50px;
+}
+
 /* Header */
 header {
     height: 85vh;
@@ -141,10 +145,6 @@ main {
 }
 
 /* Trending Section */
-.trending-section {
-    padding: 50px 0;
-}
-
 .trending-cards {
     margin: 25px;
     display: grid;
@@ -179,7 +179,6 @@ main {
 /* Join Section */
 .join-cards {
     margin-top: 15px;
-    padding-bottom: 50px;
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(4, 1fr);
