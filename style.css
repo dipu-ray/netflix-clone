@@ -175,3 +175,35 @@ main {
     border-radius: 8px;
     width: 90%;
 }
+
+/* Join Section */
+.join-cards {
+    margin-top: 15px;
+    padding-bottom: 50px;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.join-cards .card {
+    background: linear-gradient(150deg, #192145, #210e18);
+    border-radius: 10px;
+    padding: 30px 15px;
+    position: relative;
+}
+
+.join-cards .card h3 {
+    font-size: 1.4rem;
+}
+
+.join-cards .card p {
+    color: var(--light-gray);
+    margin: 20px 0 100px;
+}
+
+.join-cards .card img {
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    width: 80px;
+}
