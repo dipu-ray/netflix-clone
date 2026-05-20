@@ -1,6 +1,7 @@
 <h1 align="center">🎬 Netflix Clone</h1>
 
-**Started:** 18 May 2026
+**Started:** 18 May 2026  
+**Last Updated:** 21 May 2026
 
 A modern and responsive Netflix clone built using only **HTML** and **CSS**.  
 This project focuses on a sleek UI, cinematic layout, and a polished streaming-style experience without JavaScript or a backend.
@@ -63,17 +64,17 @@ netflix-clone/          # Project Name
 
 <p align="center">
     <h4>1. Phone Screen:</h4>
-    <img src="./assets/project-screenshot/phone.png" width="300" alt="Netflix Clone project screenshot - Phone screen">
+    <img src="./assets/projects-screenshots/phone.png" width="300" alt="Netflix Clone project screenshot - Phone screen">
 </p>
 
 <p align="center">
     <h4>2. Tab Screen:</h4>
-    <img src="./assets/project-screenshot/tablet.png" width="400" alt="Netflix Clone project screenshot - Tab screen">
+    <img src="./assets/projects-screenshots/tab.png" width="400" alt="Netflix Clone project screenshot - Tab screen">
 </p>
 
 <p align="center">
     <h4>3. Laptop or Desktop Screen:</h4>
-    <img src="./assets/project-screenshot/laptop.png" width="600" alt="Netflix Clone project screenshot - Laptop or Desktop screen">
+    <img src="./assets/projects-screenshots/laptop.png" width="600" alt="Netflix Clone project screenshot - Laptop or Desktop screen">
 </p>
 
 ---
