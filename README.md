@@ -1,7 +1,7 @@
 <h1 align="center">🎬 Netflix Clone</h1>
 
 **Started:** 18 May 2026  
-**Last Updated:** 21 May 2026
+**Last Updated:** 23 May 2026
 
 A modern and responsive Netflix clone built using only **HTML** and **CSS**.  
 This project focuses on a sleek UI, cinematic layout, and a polished streaming-style experience without JavaScript or a backend.
@@ -93,13 +93,13 @@ If you want to improve the design or fix issues, feel free to fork the project a
 
 ---
 
-<!-- ## 🌐 Live Demo
+## 🌐 Live Demo
 
 You can check out the live preview of this project by clicking the link below:
 
-▶️ [Live Preview](YOUR_LIVE_LINK_HERE)
+▶️ [Live Preview](https://dipu-ray.github.io/netflix-clone/)
 
---- -->
+---
 
 <div align="center">
 
