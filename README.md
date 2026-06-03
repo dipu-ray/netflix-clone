@@ -1,22 +1,10 @@
 <h1 align="center">🎬 Netflix Clone</h1>
 
-**Started:** 18 May 2026  
-**Last Updated:** 23 May 2026
+**Started:** 18 May, 2026  
+**Last Updated:** 04 June, 2026
 
 A modern and responsive Netflix clone built using only **HTML** and **CSS**.  
 This project focuses on a sleek UI, cinematic layout, and a polished streaming-style experience without JavaScript or a backend.
-
----
-
-## ✨ Features
-
-- 📱 Responsive Netflix-style layout.
-- 🎬 Hero section with featured content.
-- 🖼️ Movie and TV show rows.
-- 💫 Smooth hover effects on posters and buttons.
-- 🧭 Clean navigation bar and footer design.
-- 🎨 Fully built with HTML and CSS only.
-- ⚡ Easy to customize for personal projects.
 
 ---
 
@@ -39,6 +27,18 @@ netflix-clone/          # Project Name
 ├── index.html          # HTML Codes
 └── style.css           # CSS Codes
 ```
+
+---
+
+## ✨ Features
+
+- 📱 Responsive Netflix-style layout.
+- 🎬 Hero section with featured content.
+- 🖼️ Movie and TV show rows.
+- 💫 Smooth hover effects on posters and buttons.
+- 🧭 Clean navigation bar and footer design.
+- 🎨 Fully built with HTML and CSS only.
+- ⚡ Easy to customize for personal projects.
 
 ---
 
