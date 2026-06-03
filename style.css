@@ -336,6 +336,12 @@ footer {
     }
 }
 
+@media screen and (max-width: 1024px) {
+    header {
+        height: 60vh;
+    }
+}
+
 @media screen and (max-width: 950px) {
 
     /* Custom Class */
@@ -542,6 +548,9 @@ footer {
 }
 
 @media screen and (max-width: 450px) {
+    header {
+        height: 75vh;
+    }
 
     /* Trending Section */
     .trending-cards {
