@@ -80,13 +80,6 @@ netflix-clone/          # Project Name
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.  
-If you want to improve the design or fix issues, feel free to fork the project and submit a pull request.
-
----
-
 ## 🙌 Acknowledgements
 
 - Inspired by the Netflix UI.
