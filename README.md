@@ -42,11 +42,12 @@ netflix-clone/          # Project Name
 
 ---
 
-## 🎯 Usage
+## ⚠️ Challenges Faced
 
-- Open the homepage in a browser.
-- Explore the hero banner, categories, and movie sections.
-- Resize the browser to see the responsive layout in action.
+- **Hero Background Sizing:** Preventing distortion, stretching, or pixelation of the prominent home background banner when scaling across high-resolution desktops and mobile viewport.
+- **Aspect Ratio Uniformity:** Formatting vertical poster cards and horizontal backdrop banners perfectly when dealing with mismatched source images.
+- **Grid Layout Overlaps:** Aligning large-scale hero billboard videos to gracefully blend into the underlying category grids on mobile.
+- **Semantic Sectioning:** Managing high-density markup nesting for dozens of categorized movie rows without losing structural readability.
 - Use it as a learning project or as a base for future frontend builds.
 
 ---
