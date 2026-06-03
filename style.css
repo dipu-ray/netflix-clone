@@ -305,32 +305,25 @@ footer {
 
 /* Responsive Design */
 @media screen and (max-width: 1450px) {
-
-    /* Custom Class */
     .container {
         width: 1200px;
     }
 
-    /* Home Section */
     .home-section {
         margin: 150px auto;
     }
 }
 
 @media screen and (max-width: 1300px) {
-
-    /* Custom Class */
     .container {
         width: 900px;
     }
 
-    /* Trending Section */
     .trending-cards {
         grid-template-columns: repeat(4, 1fr);
         row-gap: 20px;
     }
 
-    /* Links Section */
     .links-container {
         gap: 100px;
     }
@@ -343,8 +336,6 @@ footer {
 }
 
 @media screen and (max-width: 950px) {
-
-    /* Custom Class */
     .container {
         width: 95%;
     }
@@ -358,7 +349,6 @@ footer {
         width: 100px;
     }
 
-    /* Home Section */
     .home-section {
         margin: 100px auto;
     }
@@ -395,7 +385,6 @@ footer {
         font-size: 1rem;
     }
 
-    /* Trending Section */
     .trending-cards {
         margin: 25px;
         display: grid;
@@ -410,7 +399,6 @@ footer {
         font-size: 3.5rem;
     }
 
-    /* Join Section */
     .join-cards {
         gap: .5rem;
         grid-template-columns: repeat(1, 1fr);
@@ -432,12 +420,10 @@ footer {
         width: 70px;
     }
 
-    /* Questions Section */
     .qs-container a {
         font-size: 1rem;
     }
 
-    /* Membership Section */
     .membership-section {
         text-align: center;
         margin-top: 25px;
@@ -448,20 +434,21 @@ footer {
         width: 60%;
     }
 
-    /* Links Section */
+    /* Footer */
     .links-container {
         gap: 50px;
     }
 }
 
 @media screen and (max-width: 800px) {
+    header {
+        height: 55vh;
+    }
 
-    /* Trending Section */
     .trending-cards {
         grid-template-columns: repeat(5, 1fr);
     }
 
-    /* Links Section */
     .links-container {
         flex-direction: column;
         gap: 50px;
@@ -469,16 +456,12 @@ footer {
 }
 
 @media screen and (max-width: 700px) {
-
-    /* Trending Section */
     .trending-cards {
         grid-template-columns: repeat(4, 1fr);
     }
 }
 
 @media screen and (max-width: 550px) {
-
-    /* Home Section */
     .home-section h1 {
         width: 90%;
     }
@@ -501,12 +484,10 @@ footer {
         font-size: 1rem;
     }
 
-    /* Trending Section */
     .trending-cards {
         grid-template-columns: repeat(3, 1fr);
     }
 
-    /* Membership Section */
     .membership-section {
         text-align: left;
     }
@@ -525,7 +506,6 @@ footer {
         left: 0;
     }
 
-    /* Links Section */
     .links-section {
         padding-top: 100px;
     }
@@ -536,8 +516,6 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-
-    /* Custom Class */
     .container {
         width: 90%;
     }
@@ -552,7 +530,6 @@ footer {
         height: 75vh;
     }
 
-    /* Trending Section */
     .trending-cards {
         grid-template-columns: repeat(2, 1fr);
         place-items: center;
