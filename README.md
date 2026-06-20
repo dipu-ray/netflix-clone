@@ -1,7 +1,7 @@
 <h1 align="center">🎬 Netflix Clone</h1>
 
 **Started:** 18 May, 2026  
-**Last Updated:** 04 June, 2026
+**Last Updated:** 20 June, 2026
 
 A modern and responsive Netflix clone built using only **HTML** and **CSS**.  
 This project focuses on a sleek UI, cinematic layout, and a polished streaming-style experience without JavaScript or a backend.
@@ -20,12 +20,14 @@ This project focuses on a sleek UI, cinematic layout, and a polished streaming-s
 ## 📁 Project Structure
 
 ```text
-netflix-clone/          # Project Name
-├── assets/             # Non-Code Files
-│   ├── images/         # Images & Icons
-├── README.md           # Project Documentations
-├── index.html          # HTML Codes
-└── style.css           # CSS Codes
+netflix-clone/                  # Project Name
+├── assets/                     # Non-Code Files
+│   ├── icons/                  # Icons Images
+│   ├── images/                 # Images and Background Images
+│   ├── project-screenshots/    # Netflix Clone Demo
+├── README.md                   # Project Documentations
+├── index.html                  # HTML Codes
+└── style.css                   # CSS Codes
 ```
 
 ---
@@ -65,17 +67,17 @@ netflix-clone/          # Project Name
 
 <p align="center">
     <h4>1. Phone Screen:</h4>
-    <img src="./assets/projects-screenshots/phone.png" width="300" alt="Netflix Clone project screenshot - Phone screen">
+    <img src="./assets/project-screenshots/phone.png" width="300" alt="Netflix Clone project screenshot - Phone screen">
 </p>
 
 <p align="center">
     <h4>2. Tab Screen:</h4>
-    <img src="./assets/projects-screenshots/tab.png" width="400" alt="Netflix Clone project screenshot - Tab screen">
+    <img src="./assets/project-screenshots/tab.png" width="400" alt="Netflix Clone project screenshot - Tab screen">
 </p>
 
 <p align="center">
     <h4>3. Laptop or Desktop Screen:</h4>
-    <img src="./assets/projects-screenshots/laptop.png" width="600" alt="Netflix Clone project screenshot - Laptop or Desktop screen">
+    <img src="./assets/project-screenshots/laptop.png" width="600" alt="Netflix Clone project screenshot - Laptop or Desktop screen">
 </p>
 
 ---
